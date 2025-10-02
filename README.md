@@ -14,6 +14,7 @@ Myolo basiert lose auf dem CosmicWatch-Projekt (http://www.cosmicwatch.lns.mit.e
 
 Im Gegensatz zu CosmicWatch nutzt Myolo jedoch einen leistungsfähigen STM32H7-Mikrocontroller, wodurch es möglich wird, beide Detektoren quasi zeitgleich auszulesen.
 
+--------------------------------------
 
 Myolo is a particle/muon detector based on scintillators and silicon photodiodes that can be constructed without SMD components.
 
