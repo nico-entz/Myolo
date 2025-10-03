@@ -2,7 +2,7 @@
 
 Myolo ist ein Partikel/Myonendetektor auf der Basis von Szintillatoren und Silizium-Photodioden, der ohne SMD-Bauteile aufgebaut werden kann.
 
-Myolo nutzt das Verfahren der Koinzidenz, um Myonen von anderen Teilchen zu unterscheiden. Um dies zu realisieren, nutzt er zwei voneinander unabhängige Detektoren. Anhand der zeitlichen Korrelation der Signale beider Detektoren kann auf die Teilchenart geschlossen werden.
+Myolo nutzt Koinzidenz, um Myonen von anderen Teilchen zu unterscheiden. Um dies zu realisieren, nutzt er zwei voneinander unabhängige Detektoren. Anhand der zeitlichen Korrelation der Signale beider Detektoren kann auf die Teilchenart geschlossen werden.
 
 Als Szintillatoren kommen Bicron BC408-Plastikszintillatoren der Maße 50x50x10 mm zum Einsatz.
 
